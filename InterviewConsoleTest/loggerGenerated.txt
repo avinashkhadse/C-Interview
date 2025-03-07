@@ -1,0 +1,16 @@
+﻿07-03-2025 16:06:46 | UserID: Unknown | Application started
+07-03-2025 16:06:52 | UserID: avinash | User logged in
+07-03-2025 16:07:04 | UserID: avinash | User logged out
+07-03-2025 16:07:19 | UserID: avinash | Failed login attempt
+07-03-2025 16:07:30 | UserID: test | User logged in
+07-03-2025 16:08:51 | UserID: test | User logged out
+07-03-2025 16:08:58 | UserID: abc | User logged in
+07-03-2025 16:09:09 | UserID: abc | User logged out
+07-03-2025 16:09:51 | UserID: aaa | User logged in
+07-03-2025 16:10:43 | UserID: aaa | User logged out
+07-03-2025 16:10:57 | UserID: avinash | User logged in
+07-03-2025 16:10:58 | UserID: avinash | User logged out
+07-03-2025 16:11:09 | UserID: azz | User logged in
+07-03-2025 16:11:26 | UserID: azz | User logged out
+07-03-2025 16:11:50 | UserID: Unknown | Application started
+07-03-2025 16:11:57 | UserID: adad | User logged in
