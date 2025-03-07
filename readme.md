@@ -1,34 +1,12 @@
-# C# Interview Test
+The application logs login and logout events using three types of loggers:
 
-## Task
-Implement the following classes:
+FileLogger - Logs messages to a file (log.txt) in the solution directory.
+ConsoleLogger - Logs messages to the console.
+CompositeLogger - Uses both FileLogger and ConsoleLogger to log messages simultaneously.
 
-- `FileLogger`: Logs messages to a file asynchronously.
-- `ConsoleLogger`: Logs messages to the console asynchronously.
-- `CompositeLogger`: Uses multiple loggers to log messages asynchronously.
-
-## Instructions
-
-1. Clone this repository:
-   ```sh
-   git clone <REPO_URL>
-   cd csharp-interview-test
-   ```
-
-2. Create a new branch for your implementation:
-   ```sh
-   git checkout -b feature-logger-implementation
-   ```
-
-3. Implement the required classes.
-
-4. Commit and push your changes:
-   ```sh
-   git add .
-   git commit -m "Implemented loggers"
-   git push origin feature-logger-implementation
-   ```
-
-5. Open a pull request on GitHub.
-
-Good luck!
+Features
+Allows any user to log in with a User ID and password.
+Stores new users dynamically during runtime.
+Provides an option to stay logged in or log out.
+Logs login and logout activities along with timestamps and User ID.
+Stores logs in a file located in the solution directory.
