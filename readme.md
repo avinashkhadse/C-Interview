@@ -10,12 +10,12 @@ CompositeLogger - Uses both FileLogger and ConsoleLogger to log messages simulta
 
 Features
 
-Allows any user to log in with a User ID and password.
+1) Allows any user to log in with a User ID and password.
 
-Stores new users dynamically during runtime.
+2) Stores new users dynamically during runtime.
 
-Provides an option to stay logged in or log out.
+3) Provides an option to stay logged in or log out.
 
-Logs login and logout activities along with timestamps and User ID.
+4) Logs login and logout activities along with timestamps and User ID.
 
-Stores logs in a file located in the solution directory.
+5) Stores logs in a file located in the solution directory.
